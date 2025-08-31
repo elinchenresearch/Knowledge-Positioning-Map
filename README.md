@@ -1,6 +1,3 @@
-# 🧭 Structural Positioning Map
-
-
 📦 **Group Information**
 
 - Works across all repositories — system evolves in parallel.  
@@ -9,10 +6,8 @@
 - Each repo = one node in a wider lattice.  
 ---
 
-## 🔍 One-Line Description  
-A unified structural positioning map for this research system, documenting both the epistemic architecture and the specific tools it develops—through contrast, substitution, exclusion, and non-fusional referencing across the global knowledge terrain.
+# 🧭 Structural Positioning Map
 
----
 
 ## 📐 Purpose
 
